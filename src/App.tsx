@@ -38,10 +38,6 @@ const App: React.FC = () => {
 
 
 
-
-
-
-
   return (
     <div>
       <h1>Welcome to the Theme App</h1>
